@@ -1,4 +1,4 @@
-# Olá meu nome é RonaldoSpada , sou programndo full stack !!
+# Olá meu nome é Ronaldo Spada , sou programndo full stack !!
 
 🗂️-Formação:
 
