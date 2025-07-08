@@ -14,7 +14,7 @@ Segurança e Ethical Hacking – Noções de proteção e vulnerabilidades.
 
 Java Básico – Introdução à programação orientada a objetos.
 
-### Quero me tornar um programador habilidoso, alinhado às demandas do mercado, para trabalhar com o que amo. Busco constantemente aprender e evoluir em novas áreas, criando soluções que simplifiquem a vida das pessoas por meio dos meus projetos. Assim, pretendo impulsionar minha carreira e contribuir com inovação.
+### Olá! Meu nome é Ronaldo Spada, e sou um programador Full Stack com uma sólida formação e experiência em diversas áreas da programação. Minha jornada é marcada pela busca contínua por aprimoramento, evidenciada pela conclusão de variados cursos em plataformas renomadas como Udemy, Jumper e UniFECAF. Atualmente, dedico-me ao estudo e à aplicação prática de Inteligência Artificial, buscando integrar suas capacidades no desenvolvimento diário e aprimorar as metodologias de trabalho. Meu objetivo é não apenas evoluir constantemente na área Full Stack, mas também inovar nos horizontes da segurança de sistemas, consolidando-me como um profissional cada vez mais qualificado e preparado para os desafios tecnológicos contemporâneos.
 
 
 <div style="display: inline_block"><br>
